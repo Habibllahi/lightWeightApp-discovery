@@ -1,4 +1,4 @@
-package com.codetrik.discovery;
+package com.codetrik.lightweightapp.discovery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

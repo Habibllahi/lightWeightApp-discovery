@@ -1,4 +1,4 @@
-package com.codetrik.discovery;
+package com.codetrik.lightweightapp.discovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
